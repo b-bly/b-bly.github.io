@@ -175,6 +175,16 @@ section h2 {
 header.masthead {
   padding-top: calc(6rem + 72px);
   padding-bottom: 6rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: white;
+  background-image: url("/../img/code-adjusted.jpg");
+  background-position: center;
+  background-size: cover;
 }
 
 header.masthead h1 {
