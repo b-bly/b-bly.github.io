@@ -1,8 +1,7 @@
 {
-    "title": "Freelancer",
-    "name": "startbootstrap-freelancer",
+    "title": "Portfolio",
+    "name": "portfolio",
     "version": "5.0.0",
-    "description": "A freelancer portfolio HTML theme for Bootstrap.",
     "keywords": [
         "css",
         "sass",
@@ -11,20 +10,12 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/freelancer",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer/issues",
-        "email": "feedback@startbootstrap.com"
-    },
+    "homepage": "https://brendt-bly.com",
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
         "David Miller (http://davidmiller.io/)"
     ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
-    },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.3.1",
         "bootstrap": "4.1.3",
