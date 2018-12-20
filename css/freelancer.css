@@ -52,6 +52,10 @@ hr.star-light:after {
   background-color: #18BC9C;
 }
 
+hr.black-override:after {
+  background-color: black;
+}
+
 hr.star-dark {
   border-color: #2C3E50;
 }

@@ -45,6 +45,9 @@ hr.star-light:after {
   color: $white;
   background-color: $primary;
 }
+hr.black-override:after {
+  background-color: black;
+}
 
 hr.star-dark {
   border-color: $secondary;
