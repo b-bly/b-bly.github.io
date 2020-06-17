@@ -38,6 +38,9 @@
     -moz-box-shadow: 0 0 3rem 1rem fade-out(black, .5);
     -webkit-box-shadow: 0 0 3rem 1rem fade-out(black, .5);
     box-shadow: 0 0 3rem 1rem fade-out(black, .5);
+    .img-fluid {
+      max-height: 300px;
+    }
     .close-button {
       position: absolute;
       top: 2rem;

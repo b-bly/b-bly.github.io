@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Portfolio v5.0.0 (https://brendt-bly.com)
- * Copyright 2013-2018 Start Bootstrap
+ * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/portfolio/blob/master/LICENSE)
  */
 
@@ -282,6 +282,10 @@ header.masthead .circle-crop .photo {
   z-index: 2;
   -webkit-box-shadow: 0 0 3rem 1rem rgba(0, 0, 0, 0.5);
   box-shadow: 0 0 3rem 1rem rgba(0, 0, 0, 0.5);
+}
+
+.portfolio-modal .portfolio-modal-dialog .img-fluid {
+  max-height: 300px;
 }
 
 .portfolio-modal .portfolio-modal-dialog .close-button {
